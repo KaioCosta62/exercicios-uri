@@ -1,2 +1,5 @@
 # Exercicios do Uri
-Exercícios de lógica de programação
+Exercícios para treinar lógica de programação
+
+
+
